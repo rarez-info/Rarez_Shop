@@ -194,6 +194,24 @@
   <img src="galison/500/winter_in_stockholm_tn.jpg" alt="Winter in Stockholm" style="width:500px">
 </a>
 
+33. Winter Lights
+
+<a target="_blank" href="galison/500/winter_lights.png">
+  <img src="galison/500/winter_lights_tn.jpg" alt="Winter Lights" style="width:500px">
+</a>
+
+34. Wonder and Bloom
+
+<a target="_blank" href="galison/500/wonder_and_bloom.png">
+  <img src="galison/500/wonder_and_bloom_tn.jpg" alt="Wonder and Bloom" style="width:500px">
+</a>
+
+35. Wonder Workshop
+
+<a target="_blank" href="galison/500/wonder_workshop.png">
+  <img src="galison/500/wonder_workshop_tn.jpg" alt="Wonder Workshop" style="width:500px">
+</a>
+
 
 ## 1000 Pieces
 
